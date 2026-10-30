@@ -788,6 +788,7 @@ These works provide methodological background or comparison points; they are sep
 - [Official interactive demo](https://supermimic.github.io/demo/) — explore the original policy in the browser before choosing a training stack.
 - [Official method explanation](https://supermimic.github.io/#loop) — simulator collection, model fitting, and policy learning.
 - [InstinctMJ releases](https://github.com/project-instinct/InstinctMJ/releases) — upstream distribution of task data and model assets; check the release description for the relevant branch and task.
+- [awesome-supermimic-community](https://github.com/vicfei/awesome-supermimic-community) — community hub with language-tagged deep dives (Chinese-reading section included), a status-tracked reproduction board, and the world-model lineage and toolchain; implementations and extensions stay in this primary list.
 
 ## Contributing
 
